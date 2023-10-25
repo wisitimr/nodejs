@@ -42,7 +42,7 @@ npm run start:test2 [0,1,0,1,0]
 npm run start:test2 [1,2,2,3,3,3,4,3,3,3,2,2,1]
 ```
 
-### Find the odd int
+### Count the smiley faces!
 
 ```bash
 npm run start:test3 '[":)",";(",";}",":-D"]'
