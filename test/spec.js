@@ -1,6 +1,6 @@
 const chai = require('chai');
 const expect = chai.expect;
-const Test = require('../src');
+const Test = require('../src/test');
 
 
 describe('Permutations', function () {
